@@ -47,6 +47,8 @@ public class ChatServer {
                 }
             }
 
+            // changes done in test_branch
+
             // Close sockets and streams
             socket.close();
             serverSocket.close();
